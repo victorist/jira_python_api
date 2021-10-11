@@ -1,2 +1,2 @@
-# jira_python_api
+# Python API for the Jira
 Examples Python code for Jira
